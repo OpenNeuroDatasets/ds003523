@@ -1,0 +1,511 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+122.7200000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+125.0180000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+125.8120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+130.2020000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+132.4840000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+133.3680000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+137.8360000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+140.1180000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+140.9040000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+145.6880000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+147.9700000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+148.5920000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+153.5060000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+155.7880000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+156.3760000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+161.1920000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+163.4740000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+164.2600000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+168.7920000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+171.0740000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+171.9080000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+176.5440000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+178.8240000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+179.3860000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+184.0600000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+186.3420000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+187.0780000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+191.6260000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+193.9080000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+194.6940000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+194.7480000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+197.2380000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+201.8600000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+204.1420000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+204.6980000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+204.7640000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+206.0660000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+210.7700000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+213.0520000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+213.6220000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+213.6900000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+215.1220000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+220.0320000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+222.3140000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+223.0980000000	n/a	n/a	Response: Correct	n/a	n/a	S200
+227.4640000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+229.7460000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+230.3700000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+235.0320000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+237.3140000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+238.0140000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+242.6320000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+244.9140000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+245.4300000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+250.1980000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+252.4800000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+253.2180000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+258.0680000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+260.3500000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+260.9660000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+261.0200000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+262.6140000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+267.4300000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+269.7120000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+270.4060000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+275.0980000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+277.3780000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+278.4780000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+282.9500000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+285.2320000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+285.8300000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+290.6160000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+292.8980000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+293.4820000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+298.4520000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+300.7340000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+301.3780000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+306.0700000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+308.3520000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+308.9140000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+313.9560000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+316.2360000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+316.7120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+321.5060000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+323.7860000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+324.4560000000	n/a	n/a	Response: Correct	n/a	n/a	S200
+329.1400000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+331.4220000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+331.9640000000	n/a	n/a	Response: Correct	n/a	n/a	S200
+332.0260000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+333.2120000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+338.1820000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+340.4640000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+341.2240000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+346.0840000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+348.3660000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+349.0040000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+353.7360000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+356.0180000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+356.6080000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+361.3540000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+363.6340000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+364.4880000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+368.8700000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+371.1520000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+371.6760000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+376.4200000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+378.7020000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+379.2120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+384.2380000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+386.5200000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+387.1560000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+387.2240000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+388.4240000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+393.3660000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+395.6480000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+396.3320000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+396.3860000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+398.3680000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+403.2300000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+405.5120000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+406.1920000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+410.9480000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+413.2300000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+413.7640000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+418.4320000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+420.7140000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+421.2520000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+425.9140000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+428.1960000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+428.6840000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+433.3980000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+435.6800000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+436.2680000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+440.9640000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+443.2460000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+443.8000000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+448.6320000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+450.9140000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+451.5620000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+456.3500000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+458.6320000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+459.1860000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+459.2520000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+462.1340000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+467.1720000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+469.4540000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+469.9140000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+474.7720000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+477.0540000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+477.5220000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+482.3400000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+484.6220000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+485.1980000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+485.2580000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+486.2500000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+491.0480000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+493.3280000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+494.2020000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+498.9500000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+501.2320000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+501.7100000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+506.4160000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+508.6980000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+509.1220000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+514.3360000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+516.6160000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+517.1180000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+521.8340000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+524.1160000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+524.7900000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+529.4020000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+531.6840000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+532.5940000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+537.2040000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+539.4860000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+540.0100000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+544.9380000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+547.2200000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+547.9100000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+547.9740000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+549.9020000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+554.5520000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+556.8340000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+557.3300000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+562.3700000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+564.6520000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+565.2940000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+565.3580000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+566.3340000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+571.1120000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+573.3940000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+573.9180000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+578.8800000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+581.1620000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+581.6680000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+586.7660000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+589.0480000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+589.7080000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+594.5180000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+596.7980000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+597.4800000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+602.2520000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+604.5340000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+605.2120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+609.8020000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+612.0840000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+612.6280000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+617.6040000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+619.8860000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+620.5040000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+625.0540000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+627.3360000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+628.0400000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+632.7540000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+635.0360000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+635.6560000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+635.7240000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+636.7440000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+641.5620000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+643.8440000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+644.5520000000	n/a	n/a	Response: Correct	n/a	n/a	S200
+649.2480000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+651.5280000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+652.9480000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+657.0660000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+659.3480000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+659.9720000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+660.0360000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+661.1280000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+665.7220000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+668.0040000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+668.6440000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+668.7100000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+669.5760000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+674.5320000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+676.8140000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+677.3400000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+682.1980000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+684.4800000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+685.0680000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+689.8320000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+692.1140000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+693.5040000000	n/a	n/a	Response: Correct	n/a	n/a	S200
+697.2480000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+699.5300000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+700.0920000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+705.1340000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+707.4160000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+708.0600000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+712.8860000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+715.1680000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+715.7360000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+720.3860000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+722.6680000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+723.3200000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+723.3900000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+726.2600000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+731.0400000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+733.3220000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+733.9300000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+738.7580000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+741.0400000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+741.5020000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+746.5760000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+748.8580000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+749.4780000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+754.4960000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+756.7780000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+757.4580000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+762.0960000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+764.3780000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+765.0220000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+765.0820000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+766.1860000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+770.8540000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+773.1360000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+773.5180000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+778.3040000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+780.5860000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+781.3860000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+786.1560000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+788.4380000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+789.0340000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+793.9060000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+796.1880000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+796.6660000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+801.7600000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+804.0400000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+804.4940000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+809.2760000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+811.5580000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+812.1860000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+816.7580000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+819.0400000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+819.7700000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+824.1920000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+826.4740000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+827.0940000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+827.1620000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+829.6380000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+834.5100000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+836.7920000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+837.3900000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+841.9600000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+844.2420000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+844.6980000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+844.7620000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+846.1460000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+851.0520000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+853.3340000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+853.8740000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+858.5700000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+860.8520000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+861.4780000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+866.0180000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+868.3000000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+869.0960000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+869.1560000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+870.4840000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+875.3300000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+877.6120000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+878.1880000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+882.7960000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+885.0780000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+885.8440000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+890.5820000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+892.8640000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+893.4720000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+898.4340000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+900.7160000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+901.2240000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+906.2020000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+908.4840000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+909.4840000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+913.8200000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+916.1020000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+916.6280000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+921.3860000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+923.6680000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+924.1600000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+928.9860000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+931.2680000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+931.9600000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+936.7380000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+939.0200000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+939.6320000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+944.2040000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+946.4860000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+948.1840000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+951.7540000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+954.0360000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+954.5160000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+954.5740000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+956.1320000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+960.8320000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+963.1140000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+963.7680000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+968.3640000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+970.6460000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+971.0840000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+971.1500000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+972.5880000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+977.5260000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+979.8080000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+980.4200000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+980.4780000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+982.2000000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+986.7360000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+989.0180000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+989.7960000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+994.4880000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+996.7700000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+997.3560000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1001.9380000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1004.2200000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1004.7620000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1009.8560000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1012.1380000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1012.8340000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1017.6580000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1019.9400000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1020.5700000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1025.5280000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1027.8100000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1028.3180000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1033.0280000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1035.3100000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1036.0100000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1040.4600000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1042.7420000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1043.2860000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1048.3800000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1050.6620000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1051.4260000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1051.4840000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1060.8280000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1063.1100000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1063.7020000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1068.3280000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1070.6100000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1070.9940000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1075.9960000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1078.2780000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1079.0300000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1083.5120000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1085.7940000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1086.3540000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1086.4160000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1087.2940000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+1092.0520000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1094.3340000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1095.1500000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1099.8700000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1102.1520000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1102.6900000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1107.5880000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1109.8700000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1110.5900000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1115.2900000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1117.5720000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1118.3020000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1122.8400000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1125.1220000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1125.7020000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1130.7600000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1133.0420000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1133.6040000000	n/a	n/a	Response: Correct	n/a	n/a	S200
+1138.4100000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1140.6920000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1141.5280000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1141.5820000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1143.2280000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+1148.0060000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1150.2880000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1150.7200000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1155.7420000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1158.0240000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1158.6160000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1158.6780000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1159.5460000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+1164.3660000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1166.6480000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1167.2120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1171.9820000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1174.2640000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1174.7400000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1174.8020000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1178.7320000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+1183.8620000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1186.1440000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1186.8360000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1191.6640000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1193.9460000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1194.7120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1199.4660000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1201.7480000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1202.2920000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1207.3180000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1209.6000000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1210.2120000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1214.8180000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1217.1000000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1217.8440000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1222.4840000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1224.7660000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1225.4200000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1230.0520000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1232.3340000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1232.8640000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1237.8880000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1240.1680000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1241.1800000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1245.5380000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1247.8200000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1248.5000000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1253.2380000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1255.5200000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1256.3320000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1261.0740000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1263.3560000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1263.9280000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1263.9940000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1265.4320000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+1270.4360000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1272.7180000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1273.2220000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1278.3060000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1280.5880000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1281.2500000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1286.0900000000	n/a	n/a	Stim Onset: 5 Red	n/a	n/a	S  3
+1288.3720000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1288.9260000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1293.7240000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1296.0060000000	n/a	n/a	Question Mark Probe: "In"	n/a	n/a	S101
+1296.5220000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1296.5760000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1297.5100000000	n/a	n/a	Mind Wandering: No	n/a	n/a	S 52
+1302.4820000000	n/a	n/a	Stim Onset: 3 Red + 2 yellow	n/a	n/a	S  2
+1304.7640000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1305.3060000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1310.0500000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1312.3320000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1312.8620000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
+1312.9180000000	n/a	n/a	Mind Wandering Probe	n/a	n/a	S 50
+1314.1260000000	n/a	n/a	Mind Wandering: Yes	n/a	n/a	S 51
+1318.8400000000	n/a	n/a	Stim Onset: 3 Red	n/a	n/a	S  1
+1321.1220000000	n/a	n/a	Question Mark Probe: "Out"	n/a	n/a	S100
+1321.6020000000	n/a	n/a	Response: Inorrect	n/a	n/a	S201
